@@ -6,6 +6,8 @@ deliverables: '1 team roster'
 
 # Choosing teams
 
+## Overview
+
 Self-organize into teams of 3 people. Each person on the team will be the lead of a specific segment of the project with a project manager guiding the whole project.
 
 *Even though certain people are leads for segments every person must contribute to everything.*
