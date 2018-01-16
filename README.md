@@ -1,52 +1,34 @@
 ---
-summary: 'Self-organize into teams of three making sure to have leads for each primary segment.'
+summary: 'Everybody will be randomly allocated into groups of three and leads for each primary segment will be determined.'
 time: '10 minutes'
 deliverables: '1 team roster'
 ---
 
-# Choosing teams
+# Team allocation
 
 ## Overview
 
-Self-organize into teams of 3 people. Each person on the team will be the lead of a specific segment of the project with a project manager guiding the whole project.
+Teams will be randomly allocated into groups of 3 people. Each person on the team will be the lead of a specific segment of the project, with a project manager guiding the whole project.
 
-*Even though certain people are leads for segments every person must contribute to everything.*
+*Even though certain people are leads for segments, every person must contribute to everything.*
 
-Find team members in class who are strong in each different lead position. As a class you should distribute yourselves to make the best teams possible.
-
-When you’ve found your team, come up with an awesome team name!
+When you’ve found all your teammates, together come up with an awesome team name!
 
 ---
 
 ## Members
 
-Please get into teams of 3, assigning each person one of these roles:
+Determine, based on your random group, which team member is strongest in each different lead position, and assign them a role:
 
 - Project Manager
 - UX Lead
 - Dev Lead
-
-### If you must have 4 members
-
-*4-member teams must first get approval from the teacher.*
-
-- Project Manager
-- UX Lead
-- Visual Design Lead
-- Dev Lead
-
-### If you must have 2 members
-
-*2-member teams must first get approval from the teacher.*
-
-- UX Lead (PM for first half)
-- Dev Lead (PM for second half)
 
 ---
 
 ## Team name
 
-As a group, come up with an awesome team name that you can use on GitHub. In the next lesson we’ll be setting up the GitHub repository and organization—so you’ll need an team name.
+As a group, come up with an awesome team name that you can use on GitHub. In the next lesson we’ll be setting up the GitHub repository and organization—so you’ll need a team name.
 
 The organization can also be customized with a logo—so it might be fun to make a fast logo for your team too.
 
