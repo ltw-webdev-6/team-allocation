@@ -20,9 +20,20 @@ When you’ve found all your teammates, together come up with an awesome team na
 
 Determine, based on your random group, which team member is strongest in each different lead position, and assign them a role:
 
-- Project Manager
-- UX Lead
-- Dev Lead
+- **Project Manager**
+  1. Makes sure everything is running on time
+  2. Determines what tasks need to be completed each week
+  3. Delegates the tasks to the team members
+
+- **UX Lead**
+  1. Critiques & analyzes all UX deliverables
+  2. Makes the final decision for UX-related stuff
+  3. Helps define the deliverables and their success
+
+- **Dev Lead**
+  1. Critiques & analyzes all code deliverables
+  2. Makes the final decision for all code-related stuff
+  3. Helps define the deliverables and their success
 
 ---
 
