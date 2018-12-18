@@ -1,5 +1,5 @@
 ---
-summary: 'Everybody will be randomly allocated into groups of three and leads for each primary segment will be determined.'
+summary: 'Everybody will be allocated into groups of three and leads for each primary segment will be determined.'
 time: '10 minutes'
 deliverables: '1 team roster'
 ---
@@ -8,7 +8,7 @@ deliverables: '1 team roster'
 
 ## Overview
 
-Teams will be randomly allocated into groups of 3 people. Each person on the team will be the lead of a specific segment of the project, with a project manager guiding the whole project.
+Teams will be allocated into groups of 3 people. Each person on the team will be the lead of a specific segment of the project, with a project manager guiding the whole project.
 
 *Even though certain people are leads for segments, every person must contribute to everything.*
 
@@ -18,7 +18,7 @@ When you’ve found all your teammates, together come up with an awesome team na
 
 ## Members
 
-Determine, based on your random group, which team member is strongest in each different lead position, and assign them a role:
+Determine, based on your group, which team member is strongest in each different lead position, and assign them a role:
 
 - **Project Manager**
   1. Makes sure everything is running on time
