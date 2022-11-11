@@ -1,7 +1,7 @@
 ---
-summary: 'Everybody will be allocated into groups of three and leads for each primary segment will be determined.'
-time: '10 minutes'
-deliverables: '1 team roster'
+summary: "Everybody will be allocated into groups of three and leads for each primary segment will be determined."
+time: "10 minutes"
+deliverables: "1 team roster"
 ---
 
 # Team allocation
@@ -10,7 +10,7 @@ deliverables: '1 team roster'
 
 Teams will be allocated into groups of 3 people. Each person on the team will be the lead of a specific segment of the project, with a project manager guiding the whole project.
 
-*Even though certain people are leads for segments, every person must contribute to everything.*
+_Even though certain people are leads for segments, every person must contribute to everything._
 
 When you’ve found all your teammates, together come up with an awesome team name!
 
@@ -52,4 +52,4 @@ The organization can also be customized with a logo—so it might be fun to make
 
 Email your teacher with a roster of your team members, their roles within the project, your team name, and the organization’s URL.
 
-*Probably best to do this after completing the [GitHub project setup lesson](https://learn-the-web.algonquindesign.ca/courses/web-dev-6/github-project-setup/).*
+_Probably best to do this after completing the [GitHub project setup lesson](https://learntheweb.courses/courses/web-dev-6/github-project-setup/)._
